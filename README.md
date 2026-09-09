@@ -1,68 +1,149 @@
 # Hi, I'm Ananth 👋
 
-### Data & Business Analytics | Python • SQL • Power BI • Excel
+### Data Scientist | Business Analyst | Data & Project Analytics
 
-I'm a Civil Engineer with 9 years of experience in project management, estimation, planning, billing, contract management, and project reporting.
+Data Scientist and Business Analyst with **9 years of professional experience** applying data-driven analysis to complex business and project-management problems.
 
-I'm transitioning into **Data & Business Analytics**, combining my engineering and project-management experience with data analysis, visualization, and programming.
+My work combines **Python, SQL, Machine Learning, Statistical Modeling, Predictive Analytics, and Business Intelligence** with strong domain expertise in cost, schedule, progress, quantity, billing, and project-performance data.
 
-## 🛠️ Skills
+I build analytical solutions that transform complex datasets into **forecasts, risk indicators, performance insights, and management dashboards**.
 
-**Data & Analytics**
+---
+
+## 🛠️ Technical Skills
+
+### Data Science & Machine Learning
+
 - Python
 - Pandas
 - NumPy
 - SQL
-- Microsoft Excel
+- Statistics
+- Exploratory Data Analysis
+- Feature Engineering
+- Statistical Modeling
+- Predictive Modeling
+- Machine Learning
+- Regression
+- Classification
+- Time Series Analysis
+- Model Evaluation
+
+### AI & Advanced Analytics
+
+- Artificial Intelligence (AI)
+- Generative AI
+- Natural Language Processing (NLP)
+- Retrieval-Augmented Generation (RAG)
+- Predictive Analytics
+- Risk Analysis
+- Forecasting
+
+### Business Intelligence & Visualization
+
 - Power BI
 - DAX
+- Tableau
+- Microsoft Excel
 - Data Visualization
-- Statistics
+- Dashboard Development
+- KPI & Performance Analysis
 
-**Engineering & Project Management**
-- Project Planning
-- Cost & Quantity Analysis
-- Estimation & Billing
-- Contract Management
-- Progress Monitoring
-- Project Reporting
+### Domain & Business Analytics
 
-## 🎓 Learning & Certifications
+- Project Analytics
+- Project Controls
+- Cost Analytics
+- Schedule Analytics
+- Progress Analytics
+- Earned Value Management (EVM)
+- Cost & Schedule Performance Analysis
+- Estimation & Quantity Analysis
+- Billing & Commercial Analytics
+- Business Reporting
 
-- **Associate Data Scientist in Python** — DataCamp
-- Preparing data for analysis with Microsoft Excel
-- Introduction to DAX in Power BI
-- Data Visualization in Power BI
-- Data Preparation in Power BI
+---
 
 ## 📊 Featured Projects
 
-I'm building projects focused on:
+### 🏗️ Construction Project Analytics & Predictive Modeling
 
-- Python data analysis
-- SQL business analysis
-- Power BI dashboards
-- Excel-based analytics
-- Construction & project analytics
+An end-to-end data science and project analytics solution using:
 
-## 🌱 Currently Learning
-
-- Advanced Python for Data Analysis
+- Python
 - SQL
+- Statistical Analysis
+- Machine Learning
+- Earned Value Management
+- Delay Risk Prediction
+- Cost Forecasting
+- Progress Forecasting
+- Power BI
+
+The project analyzes project-control data to identify cost and schedule performance, predict future project outcomes, and provide management-oriented risk insights.
+
+**[View Project →](https://github.com/rb-ananth/construction-project-analytics)**
+
+### 🔮 Upcoming Projects
+
+Additional projects are being developed around:
+
+- Construction Cost Forecasting
+- Project Performance Prediction
+- Predictive Risk Analytics
+- Business Intelligence
+- AI & Generative AI
+- NLP & RAG
+- Data-driven Decision Intelligence
+
+---
+
+## 💼 Professional Focus
+
+My experience involves working with complex business and project data to:
+
+- Analyze costs, budgets, quantities, billing, schedules, and progress
+- Identify trends, variances, anomalies, and performance indicators
+- Develop forecasting and predictive analytics solutions
+- Build analytical reports and business intelligence dashboards
+- Translate business requirements into data-driven solutions
+- Validate and reconcile data from multiple sources
+- Communicate analytical findings to stakeholders
+- Support planning, cost control, forecasting, and management decisions
+
+---
+
+## 🌱 Currently Working With
+
+- Python
+- SQL
+- Machine Learning
+- Statistical Modeling
+- Predictive Analytics
 - Power BI & DAX
-- Statistics
-- Data Visualization
-- Business Analytics
+- Artificial Intelligence
+- Generative AI
+- NLP
+- Retrieval-Augmented Generation (RAG)
+- Advanced Data Analytics
+
+---
 
 ## 🎯 Career Focus
 
-I'm interested in opportunities in:
+Interested in roles involving:
 
+- Data Science
 - Data Analytics
 - Business Analytics
-- Reporting & BI
-- Project / Operations Analytics
-- Engineering Analytics
+- Machine Learning
+- Predictive Analytics
+- Business Intelligence
+- Project Analytics
+- Risk Analytics
+- Operations Analytics
+
+---
 
 ## 🔗 Connect With Me
 
@@ -70,4 +151,4 @@ I'm interested in opportunities in:
 
 ---
 
-*Building the bridge between engineering experience and data-driven decision making.*
+### Building data-driven solutions by combining analytics, technology, and real-world domain expertise.
